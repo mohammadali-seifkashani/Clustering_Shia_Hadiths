@@ -1,0 +1,76 @@
+len(noor): 191707
+
+mcm65:
+len(clustering): 122304
+Score: 0.9875262742751522
+
+newcommon65:
+len(clustering): 110786
+Score: 95.13
+
+common70:
+len(clustering): 133307
+Score: 0.9504971220911814
+
+common60:
+len(clustering): 109772
+Score: 0.9500996772356778
+
+UCLUST60:
+len(clustering): 125650
+Score: 0.948911336679402
+
+UCLUST70:
+len(clustering): 146394
+Score: 0.9447824901572777
+
+
+
+
+mmseqs2_55:
+len(clustering): 387114
+Score: 0.9118230234376784
+
+mmseqs2_60:
+len(clustering): 387114
+Score: 0.9020940418410577
+
+uclust_th75:
+len(clustering): 166169
+Score: 0.8887
+
+mmseqs2_65:
+len(clustering):387115
+score:0.8852841571144898
+
+alireza_mmseqs2_1:
+len(clustering): 52464
+Score: 0.8455
+
+mmseqs2_70:
+len(clustering): 387114
+Score: 0.8361
+
+alireza_mmseqs2_2:
+len(clustering): 160599
+0.8219
+
+mmseqs2_80:
+len(clustering): 387114
+0.7290117380695791
+
+tfidf_cos_75:
+len(clustering): 126723
+0.6234225963769643
+
+tfidf_cos80:
+len(clustering):149414
+score:0.6222996828038639
+
+tfidf_eucl_65:
+len(clustering): 165625
+0.6199569774746071
+
+tfidf_eucl_70:
+len(clustering):200552
+score:0.594465919684173
